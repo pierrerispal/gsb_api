@@ -1,0 +1,7 @@
+{
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+        "slim/slim": "^2.6",
+        "fzaninotto/faker": "^1.5"
+    }
+}
